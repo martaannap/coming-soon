@@ -1,0 +1,27 @@
+html {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: Lobster, cursive;
+}
+
+
+.logo {
+  text-align: center;
+  font-family: Lobster, cursive;
+}
+
+
+.banner {
+  color: #e1b2a3;
+  border-bottom: solid 3px #163056;
+}
+
+.banner-content {
+  background-repeat: no-repeat;
+  background-position: left 50%;
+  background-size: 100px;
+  padding-top: 300px;
+
+}
