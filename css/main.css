@@ -1,15 +1,15 @@
 html {
-  font-family: sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 
 h2 {
-  font-family: Lobster, cursive;
+  font-family: 'Sacramento', cursive;
 }
 
 
 .logo {
   text-align: center;
-  font-family: Lobster, cursive;
+  font-family: 'Sacramento', cursive;
 }
 
 
@@ -23,5 +23,18 @@ h2 {
   background-position: left 50%;
   background-size: 100px;
   padding-top: 300px;
+
+}
+
+footer i {
+  color: yellow;
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .contact {
+    text-align: left;
+  }
 
 }
